@@ -1,0 +1,22 @@
+.jumbotron {
+    position: relative;
+    background: #dfdddd url("jumbotron-bg.png") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.napis-firme {
+    font-family:Satisfy, cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.kaj_nudimo {
+    color: darkolivegreen;
+    text-align:center; 
+    padding:inherit;
+    width: 100%;
+    height: 100%;
+}
